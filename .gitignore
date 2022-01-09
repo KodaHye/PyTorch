@@ -19,5 +19,6 @@ ipython_config.py
 
 about git.ipynb
 */data/*
-*/weight/*
+*/weights/*
+*/utils/*
 
