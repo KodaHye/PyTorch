@@ -6,7 +6,7 @@
 [1.1 학습된 VGG모델을 사용하는 방법](https://github.com/KodaHye/PyTorch/blob/main/Chapter1.%20%ED%99%94%EC%83%81%20%EB%B6%84%EB%A5%98%EC%99%80%20%EC%A0%84%EC%9D%98%ED%95%99%EC%8A%B5(VGG)/1.1%20%ED%95%99%EC%8A%B5%EB%90%9C%20VGG%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.ipynb) <br>
 [1.2 파이토치를 활용한 딥러닝 구현 흐름](https://github.com/KodaHye/PyTorch/blob/main/Chapter1.%20%ED%99%94%EC%83%81%20%EB%B6%84%EB%A5%98%EC%99%80%20%EC%A0%84%EC%9D%98%ED%95%99%EC%8A%B5(VGG)/1.2%20%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B5%AC%ED%98%84%20%ED%9D%90%EB%A6%84.ipynb) <br>
 [1.3 전이학습 구현](https://github.com/KodaHye/PyTorch/blob/main/Chapter1.%20%ED%99%94%EC%83%81%20%EB%B6%84%EB%A5%98%EC%99%80%20%EC%A0%84%EC%9D%98%ED%95%99%EC%8A%B5(VGG)/1.3%20%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5%20%EA%B5%AC%ED%98%84.ipynb)<br>
-[1.4 아마존 AWS의 클라우드 GPU 머신을 사용하는 방법] <br>
+1.4 아마존 AWS의 클라우드 GPU 머신을 사용하는 방법 <br>
 [1.5 파인튜닝 구현](https://github.com/KodaHye/PyTorch/blob/main/Chapter1.%20%ED%99%94%EC%83%81%20%EB%B6%84%EB%A5%98%EC%99%80%20%EC%A0%84%EC%9D%98%ED%95%99%EC%8A%B5(VGG)/1.5%20%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D%20%EA%B5%AC%ED%98%84.ipynb)<br>
 
 
