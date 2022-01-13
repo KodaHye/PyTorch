@@ -19,3 +19,14 @@
 2.6 손실함수 구현<br>
 2.7 학습 및 검증 실시<br>
 2.8 추론 실시<br>
+
+
+## Chapter3. 시맨틱 분할(PSPNet)
+3.1 시맨틱 분할이란
+3.2 데이터셋과 데이터 로더 구현<br>
+3.3 PSPNet 네트워크 구성 및 구현<br>
+3.4 Feature 모듈 설명 및 구현(ResNet)<br>
+3.5 Pyramid Pooling 모듈의 서브 네트워크 구조<br>
+3.6 Decoder, AuxLoss 모듈 설명 및 구현<br>
+3.7 파인튜닝을 활용한 학습 및 검증 실시<br>
+3.8 시맨틱 분할 추론<br>
