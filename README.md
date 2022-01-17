@@ -32,7 +32,7 @@
 3.8 시맨틱 분할 추론<br>
 
 
-## Chapter4. 자세 추정(OpenPose)
+## [Chapter4. 자세 추정(OpenPose)](https://github.com/KodaHye/PyTorch/blob/main/Chapter4.%20%EC%9E%90%EC%84%B8%20%EC%B6%94%EC%A0%95(OpenPose)/4.%20%EC%9E%90%EC%84%B8%20%EC%B6%94%EC%A0%95(OpenPose).ipynb)
 4.1 자세 추정 및 오픈포즈 개요<br>
 4.2 데이터셋과 데이터 로더 구현<br>
 4.3 오픈포즈 네트워크 구성 및 구현<br>
