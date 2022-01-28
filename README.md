@@ -41,8 +41,8 @@
 4.6 오픈포즈 학습<br>
 4.7 오픈포즈 추론<br>
 
-## Chapter5. GAN을 이용한 화상 생성(DCGAN, Self-Attention GAN)
-5.1 GAN을 활용한 화상 생성 메커니즘과 DCGAN 구현<br>
+## Chapter5. GAN을 이용한 이미지 생성(DCGAN, Self-Attention GAN)
+5.1 GAN을 활용한 이미지 생성 메커니즘과 DCGAN 구현<br>
 5.2 DCGAN의 손실함수, 학습, 생성<br>
 5.3 Self-Attention GAN의 개요<br>
 5.4 Self-Attention GAN의 학습, 생성<br>
