@@ -41,7 +41,7 @@
 4.6 오픈포즈 학습<br>
 4.7 오픈포즈 추론<br>
 
-## Chapter5. GAN을 이용한 이미지 생성(DCGAN, Self-Attention GAN)
+## [Chapter5. GAN을 이용한 이미지 생성(DCGAN, Self-Attention GAN)](https://github.com/KodaHye/PyTorch/blob/main/Chapter5.%20GAN%EC%9D%84%20%ED%99%9C%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%83%9D%EC%84%B1(DCGAN%2C%20Self-Attention%20GAN)/5.%20GAN%EC%9D%84%20%ED%99%9C%EC%9A%A9%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%83%9D%EC%84%B1.ipynb)
 5.1 GAN을 활용한 이미지 생성 메커니즘과 DCGAN 구현<br>
 5.2 DCGAN의 손실함수, 학습, 생성<br>
 5.3 Self-Attention GAN의 개요<br>
