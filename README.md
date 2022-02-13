@@ -46,3 +46,9 @@
 5.2 DCGAN의 손실함수, 학습, 생성<br>
 5.3 Self-Attention GAN의 개요<br>
 5.4 Self-Attention GAN의 학습, 생성<br>
+
+## [Chapter6. GAN을 활용한 이상 이미지 탐지(AnoGAN, Efficient GAN)]
+6.1 GAN을 이용한 이상 이미지 탐지 메커니즘<br>
+6.2 AnoGAN 구현 및 이상 탐지 실시<br>
+6.3 Efficient GAN의 개요<br>
+6.4 Efficient GAN 구현 및 이상 탐지 실시<br>
