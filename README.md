@@ -47,7 +47,7 @@
 5.3 Self-Attention GAN의 개요<br>
 5.4 Self-Attention GAN의 학습, 생성<br>
 
-## [Chapter6. GAN을 활용한 이상 이미지 탐지(AnoGAN, Efficient GAN)]
+## [Chapter6. GAN을 활용한 이상 이미지 탐지(AnoGAN, Efficient GAN)](https://github.com/KodaHye/PyTorch/blob/main/Chapter6.%20GAN%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EC%83%81%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%83%90%EC%A7%80(AnoGAN%2C%20Efficient%20GAN)/6.%20GAN%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EC%83%81%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%83%90%EC%A7%80.ipynb)
 6.1 GAN을 이용한 이상 이미지 탐지 메커니즘<br>
 6.2 AnoGAN 구현 및 이상 탐지 실시<br>
 6.3 Efficient GAN의 개요<br>
