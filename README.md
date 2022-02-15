@@ -52,3 +52,12 @@
 6.2 AnoGAN 구현 및 이상 탐지 실시<br>
 6.3 Efficient GAN의 개요<br>
 6.4 Efficient GAN 구현 및 이상 탐지 실시<br>
+
+## [Chapater7. 자연어 처리에 의한 감정 분석(Transformer)]
+7.1 형태소 분석 구현<br>
+7.2 torchtext를 활용한 데이터셋, 데이터 로더 구현<br>
+7.3 단어의 벡터 표현 방식<br>
+7.4 word2vec, fasttext에서 학습된 모델을 사용하는 방법<br>
+7.5 IMDb의 데이터 로더 구현<br>
+7.6 Transformer 구현(분류 작업용)<br>
+7.7 Transformer의 학습/추론, 판단 근거의 시각화 구현<br>
