@@ -53,11 +53,11 @@
 6.3 Efficient GAN의 개요<br>
 6.4 Efficient GAN 구현 및 이상 탐지 실시<br>
 
-## [Chapater7. 자연어 처리에 의한 감정 분석(Transformer)]
-7.1 형태소 분석 구현<br>
-7.2 torchtext를 활용한 데이터셋, 데이터 로더 구현<br>
-7.3 단어의 벡터 표현 방식<br>
-7.4 word2vec, fasttext에서 학습된 모델을 사용하는 방법<br>
-7.5 IMDb의 데이터 로더 구현<br>
-7.6 Transformer 구현(분류 작업용)<br>
-7.7 Transformer의 학습/추론, 판단 근거의 시각화 구현<br>
+## Chapater7. 자연어 처리에 의한 감정 분석(Transformer)
+[7.1 형태소 분석 구현](https://github.com/KodaHye/PyTorch/blob/main/Chapter7.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D(Transformer)/7-1_Tokenizer.ipynb)<br>
+[7.2 torchtext를 활용한 데이터셋, 데이터 로더 구현](https://github.com/KodaHye/PyTorch/blob/main/Chapter7.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D(Transformer)/7-2_torchtext.ipynb)<br>
+[7.3 단어의 벡터 표현 방식]()<br>
+[7.4 word2vec, fasttext에서 학습된 모델을 사용하는 방법](https://github.com/KodaHye/PyTorch/blob/main/Chapter7.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D(Transformer)/7-4_vectorize.ipynb)<br>
+[7.5 IMDb의 데이터 로더 구현](https://github.com/KodaHye/PyTorch/blob/main/Chapter7.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D(Transformer)/7-5_IMDb_Dataset_DataLoader.ipynb)<br>
+[7.6 Transformer 구현(분류 작업용)](https://github.com/KodaHye/PyTorch/blob/main/Chapter7.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D(Transformer)/7-6_Transformer.ipynb)<br>
+[7.7 Transformer의 학습/추론, 판단 근거의 시각화 구현](https://github.com/KodaHye/PyTorch/blob/main/Chapter7.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D(Transformer)/7-7_transformer_training_inference.ipynb)<br>
